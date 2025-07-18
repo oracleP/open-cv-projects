@@ -1,5 +1,5 @@
 # open-cv-projects
-Harry Potter’s Invisible Cloak using OpenCV – Python Project
+Harry Potter’s Invisible Cloak using OpenCV – Python  Project
 by DataFlair Team
 
 Machine Learning courses with 100+ Real-time projects Start Now!!
